@@ -1,0 +1,13 @@
+1. Summary. Короткое описание
+2. Project. Проект
+3. Component. Компонент приложения
+4. Version. Номер версии
+5. Severity. Серьезность
+6. Priority. Приотритетность
+7. Status. Статус
+8. Author. Автор
+9. Description. Описание:
+   1) Step of Reproduce. Шаги воспроизведения
+   2) Result. Фактический результат
+   3) Expected Result. Ожидаемый результат
+10. Additions. Attachment. Дополнения. Прикрепленный файл
