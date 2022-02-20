@@ -1,7 +1,7 @@
 1. Summary. Короткое описание
 2. Project. Проект
 3. Component. Компонент приложения
-4. Version. Номер версии
+4. Version. Версии
 5. Severity. Серьезность
 6. Priority. Приотритетность
 7. Status. Статус
